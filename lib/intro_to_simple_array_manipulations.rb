@@ -18,8 +18,8 @@ def using_shift(arr)
   arr.shift
 end
 
-def shift_with_args(arr, i)
-  arr.shift(i)
+def shift_with_args(arr)
+  arr.shift(2)
 end
 
 def using_concat (a1,a2)
