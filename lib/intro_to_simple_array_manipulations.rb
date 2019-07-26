@@ -15,10 +15,17 @@ def using_pop(arr)
 end
 
 def using_shift(arr)
-  arr.
+  arr.shift
 end
 
-def shift_with_args
+def shift_with_args(arr, i)
+  arr.shift(i)
+end
+
+def using_concat (a1,a2)
+  a1 + a2
+end
+
+def using_insert
   
 end
-
