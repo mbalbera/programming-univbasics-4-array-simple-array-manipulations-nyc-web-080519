@@ -29,3 +29,34 @@ end
 def using_insert(arr, ele)
   arr.insert(ele,4)
 end
+
+
+def using_uniq(arr)
+  arr.uniq
+end
+
+
+def using_flatten(arr)
+  arr.flatten
+end
+
+def using_delte(arr, str)
+  arr.delete(str)
+end
+
+def using_delete_at(arr, i)
+  arr.delete(i)
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
